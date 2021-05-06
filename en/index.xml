@@ -3,7 +3,8 @@
         <title>zhangliguo.com</title>
         <link>https://zhangliguo.com/en/</link>
         <description>About LoveIt Theme</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>1078603360#com (zhangliguo.com)</managingEditor>
+            <webMaster>1078603360#com (zhangliguo.com)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
             <atom:link href="https://zhangliguo.com/en/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
